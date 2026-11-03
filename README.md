@@ -13,7 +13,7 @@ Since 2020 I've worked at **Nobitex**, a cryptocurrency platform with 10M+ users
 - **End-to-end delivery** — taking complex financial workflows from technical design through implementation, integration, testing and release
 - **Mentoring** — onboarding frontend engineers through architecture guidance, task breakdown, code reviews and technical documentation
 - **AI-assisted engineering** — building Skills, rules and structured documentation that help engineers and AI tools work effectively in a large codebase
-- **Performance & SEO** — improved Lighthouse scores by ~25%
+- **Performance & SEO** — improved Lighthouse scores
 - **Interactive 3D** — UI experiences with Three.js and React Three Fiber
 
 ### Tech
